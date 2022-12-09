@@ -11,7 +11,7 @@ nav ul {
   overflow: hidden;
   background-color: #333333;
 }
-nav li {
+nav li a {
   float: left;
   display: block;
   color: aliceblue;
@@ -20,7 +20,7 @@ nav li {
   text-decoration: none;
 }
 nav li :hover {
-  background-color: #111111;
+  background-color: #000000;
 }
 
 :root {
